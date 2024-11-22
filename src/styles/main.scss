@@ -1,6 +1,6 @@
 $color-mode-type: media-query;
 $font-family-base: "OpenSans";
-$primary: hsl(0, 50%, 50%);
+$primary: hsl(22, 96%, 44%);
 
 $bootstrap-icons-font-dir: "/assets/fonts";
 @import "pkg:bootstrap-icons/font/bootstrap-icons.scss";
@@ -14,6 +14,7 @@ $bootstrap-icons-font-dir: "/assets/fonts";
 // Add extra `text-wrap` option not provided by bootstrap
 
 .text-wrap-balance {
+  
   text-wrap: balance;
 }
 
